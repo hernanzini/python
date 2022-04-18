@@ -1,5 +1,5 @@
 # Author: Angel Hernán Zini (hernan.zini@gmail.com)
-# Yaer: 2021
+# Year: 2021
 
 import pygame, random
 from pygame.locals import *
