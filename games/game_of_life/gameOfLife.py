@@ -102,7 +102,7 @@ def getPattern(pattern):
 
 
 pygame.init()
-pygame.display.set_caption('Game Of Life')
+pygame.display.set_caption('Game Of Life by @HernanZini')
 font1 = pygame.font.Font('freesansbold.ttf', 18)
 font2 = pygame.font.Font('freesansbold.ttf', 16)
 grid = Grid(6, 160, 110, 60, 50, False)
