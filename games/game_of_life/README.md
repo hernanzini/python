@@ -8,10 +8,14 @@
 ### On Windows:
 ```cmd
     pip install pygame
+```
+```cmd
     python gameOfLife.py  
 ```
 ### On Mac:
 ```bash
     pip3 install pygame
+```
+```bash
     python3 gameOfLife.py  
 ```
