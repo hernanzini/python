@@ -5,7 +5,7 @@
 * Minimum source code files and lines
 * Easy to read and use
 
-### On Windows:
+### On Windows / Linux:
 ```cmd
     pip install pygame
 ```
